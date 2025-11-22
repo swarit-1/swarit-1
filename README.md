@@ -1,15 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Swarit.;Architecting+Digital+Solutions.;Optimizing+the+Future." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Swarit.;CS+%2B+Linguistics+%40+UT+Austin.;Building+AI+Safe+Systems.;Quantifying+LLM+Robustness." alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>creative technologist | full stack engineer | algorithmic optimist</h3>
+  <h3>AI Researcher | Full Stack Engineer | Cybersecurity Minor</h3>
   <br/>
   
   <a href="https://www.linkedin.com/in/swarit-srivastava-295133316/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:swaritsrivastava22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
@@ -17,34 +18,45 @@
 
 ## ⚡ About Me
 
-I am a software engineer passionate about building systems that exist at the intersection of **efficiency, acoustics, and algorithmic intelligence**. My work focuses on creating scalable applications that solve complex problems with elegant code. I don't just write software; I engineer experiences.
+[cite_start]I am a **Computer Science & Linguistics** undergrad at the **University of Texas at Austin** [cite: 4, 5][cite_start], focusing on the intersection of **Artificial Intelligence, Natural Language Processing (NLP), and Cybersecurity**[cite: 5, 44]. 
 
-- 🔭 I’m currently working on **high-performance computing & sustainable tech**.
-- 🌱 I’m currently learning **advanced distributed systems**.
-- 💡 I believe in **Green Computing** and optimizing code for energy efficiency.
+My work moves beyond standard development—I engineer systems that are not only efficient but safe and robust. [cite_start]From benchmarking LLM susceptibility to social engineering  to building resilient automated tools, I aim to optimize the future of intelligent computing.
+
+- [cite_start]🔭 I’m currently researching **LLM Safety & Social Engineering** (NAACL 2025 Author)[cite: 40, 42].
+- 🌱 I’m deeply interested in **Adversarial ML** and **Distributed Systems**.
+- [cite_start]🎓 **GPA:** 4.0 [cite: 8]
+
+---
+
+## 🔬 Research & Publications
+
+| Paper | Impact | Domain |
+| :--- | :--- | :--- |
+| **GASLIGHTBENCH** | **Accepted to NAACL 2025 (<1% acceptance)**. Quantifying LLM susceptibility to social prompting techniques like false authority and flattery. | `AI Safety` `NLP` |
+| **Methodology** | Engineered a **24K+ prompt benchmark** and validated LLM-as-a-Judge scoring with human studies ($k=0.72, r=0.89$). | `Python` `Hugging Face` |
 
 ---
 
 ## 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nodejs,html,css,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,react,nodejs,html,css,git,linux,tensorflow,pytorch&theme=dark" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Focus-System_Architecture-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Algorithmic_Optimization-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Sustainable_Computing-lightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-AI_Safety-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-NLP_&_Linguistics-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack-green?style=flat-square" />
 </div>
 
 ---
 
-## 🚀 Featured Engineering
+## 🚀 Engineering Highlights
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[dam-music](https://github.com/swarit-1/dam-music)** | A high-fidelity audio streaming interface designed for seamless playback and advanced library management. Engineered for acoustic precision. | `TypeScript` `Audio Processing` |
-| **[algoverse-alert-bot](https://github.com/swarit-1/algoverse-alert-bot)** | A real-time automated surveillance system. Monitors data streams to trigger instant algorithmic notifications for market or system events. | `Python` `Automation` |
-| **[green-compute](https://github.com/swarit-1/green-compute)** | A sustainability-focused framework optimizing computational resources to reduce carbon footprint in cloud architectures. | `TypeScript` `Sustainability` |
-| **[Astraeus](https://github.com/applea12X/Astraeus)** | Advanced logic layer and data visualization tool. Contributed to architecting robust backend solutions. | `JavaScript` `Data Viz` |
+| **Random Episode Generator** | A Chrome Extension (MV3) automating media selection on streaming platforms. Features **idempotent script injection** and robust state management. | `JavaScript` `Chrome MV3` |
+| **Google Forms Counter** | Real-time word count integration for Google Forms using **regex-based tokenization** and event-driven DOM manipulation. | `RegEx` `DOM API` |
+| **[algoverse-alert-bot](https://github.com/swarit-1/algoverse-alert-bot)** | A real-time automated surveillance system. Monitors data streams to trigger instant algorithmic notifications. | `Python` `Automation` |
+| **[dam-music](https://github.com/swarit-1/dam-music)** | A high-fidelity audio streaming interface designed for seamless playback and library management. | `TypeScript` `Audio` |
 
 ---
 
@@ -65,6 +77,6 @@ I am a software engineer passionate about building systems that exist at the int
 ---
 
 <div align="center">
-  <p><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i></p>
+  <p><i>"Optimizing code for machines, designing systems for humans."</i></p>
   <p>Generated with ❤️ by <a href="https://github.com/swarit-1">Swarit</a></p>
 </div>
