@@ -4,7 +4,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,23,25,30&height=200&section=header&text=Swarit%20Srivastava&fontSize=65&fontAlignY=35&animation=twinkling&desc=Engineering%20the%20Future%20of%20Safe%20AI&descSize=20&descAlignY=52" alt="header"/>
   
   <!-- Dynamic Typing Introduction -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=AI+Safety+Researcher+%7C+Full-Stack+Engineer;Published+Author+(NAACL+2025)+%7C+UT+Austin;Building+Robust+AI+%26+Security+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=AI+Safety+Researcher+%7C+Full-Stack+Engineer;Published+Author+(NeurIPS+2025)+%7C+UT+Austin;Building+Robust+AI+%26+Security+Systems" alt="Typing SVG" />
   
   <!-- Professional Links -->
   <br/>
